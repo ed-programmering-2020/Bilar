@@ -1,0 +1,8 @@
+C:\Users\0117frjo\source\repos\Nätverk\BilHyr\bin\Debug\BilHyr.exe.config
+C:\Users\0117frjo\source\repos\Nätverk\BilHyr\bin\Debug\BilHyr.exe
+C:\Users\0117frjo\source\repos\Nätverk\BilHyr\bin\Debug\BilHyr.pdb
+C:\Users\0117frjo\source\repos\Nätverk\BilHyr\obj\Debug\BilHyr.csprojAssemblyReference.cache
+C:\Users\0117frjo\source\repos\Nätverk\BilHyr\obj\Debug\BilHyr.Properties.Resources.resources
+C:\Users\0117frjo\source\repos\Nätverk\BilHyr\obj\Debug\BilHyr.csproj.GenerateResource.cache
+C:\Users\0117frjo\source\repos\Nätverk\BilHyr\obj\Debug\BilHyr.exe
+C:\Users\0117frjo\source\repos\Nätverk\BilHyr\obj\Debug\BilHyr.pdb
